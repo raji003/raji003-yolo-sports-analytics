@@ -1,0 +1,94 @@
+path: .
+train: images/train
+val: images/val
+test: images/test
+nc: 88
+names:
+  0: APQ elservice
+  1: Bauhaus
+  2: EAB
+  3: ITS
+  4: LLE
+  5: MG
+  6: Oatly
+  7: TCL
+  8: adidas
+  9: akea
+  10: allsvenskan
+  11: allsvenskan text
+  12: bemt
+  13: billstrom riemer andersson
+  14: boozt
+  15: bravida
+  16: bufab
+  17: bygg construct
+  18: bygg dialog
+  19: coop
+  20: craft
+  21: craftor
+  22: cuebid
+  23: dp sports management
+  24: effektiv
+  25: eleda
+  26: elgiganten
+  27: ellos
+  28: emilshus
+  29: exakta
+  30: fameco
+  31: foundation
+  32: gjuteriteknik
+  33: halmstad
+  34: helmia
+  35: holmen
+  36: infrakraft
+  37: input interior
+  38: inter sport
+  39: john scotts
+  40: jonab
+  41: karaten
+  42: lf halland
+  43: lf skåne
+  44: liljedahl
+  45: macron
+  46: mellby gaard
+  47: mobill
+  48: munkfors
+  49: nike
+  50: nojd
+  51: nordic wellness
+  52: oostras stenugnsbageriet
+  53: platinum cars
+  54: projob
+  55: pulsen group
+  56: puma
+  57: rasta
+  58: reunify group
+  59: ro-gruppen
+  60: rudholm group
+  61: sankt jörgen park resort
+  62: select
+  63: serneke
+  64: sesol
+  65: skab
+  66: solvesborg mjallby sparbank
+  67: sooderbergs bil
+  68: sparbanken sjuhaarad
+  69: spiris
+  70: sport ringen
+  71: stadium
+  72: stenfastigheter
+  73: strawberry
+  74: styra
+  75: svea
+  76: sydsvenskan
+  77: tictac interactive
+  78: toveks bil
+  79: truecaller
+  80: umbro
+  81: unibet
+  82: upplands bilforum
+  83: visma
+  84: visolve
+  85: volkswagen
+  86: zinkteknik
+  87: årsta tak
